@@ -5,3 +5,4 @@ git checkout master
 git pull js master --no-edit
 ./go.sh init
 ./go.sh unit
+./go.sh start
