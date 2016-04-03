@@ -1,7 +1,7 @@
 #! /usr/bin/env bash
 
-git remote add -t \* -f yourface https://github.com/ThinTim/coffee-api-challenge.git
+git remote add -t \* -f js https://github.com/jeandamore/coffee-api-pact.git
 git checkout master
-git pull yourface master --no-edit
-bundle update --quiet
-./go test
+git pull js master --no-edit
+npm install
+./go.sh unit
