@@ -5,5 +5,9 @@ A solution to the [March Software Shokunin Challenge](https://github.com/softwar
 - A go script ✔
 - A readme ✔
 
-[![Build Status](https://travis-ci.org/ruby/ruby.svg)](https://travis-ci.org/ruby/ruby)
+### CLI
+```
+	./go
+```
 
+[![BuildStatus](https://travis-ci.org/ruby/ruby.svg)](https://travis-ci.org/ruby/ruby)
